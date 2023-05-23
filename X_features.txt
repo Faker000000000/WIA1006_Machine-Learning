@@ -1,0 +1,28 @@
+X_features:
+Total number of missing val in each columns for X features: 
+Patient Age :  1427  (mean)
+Genes in mother's side :  0 
+Inherited from father :  306 (replace with unknown / mode)
+Maternal gene :  2810 (replace with unknown or mode)
+Paternal gene :  0
+Blood cell count (mcL) :  0
+Mother's age :  6036 (median)
+Father's age :  5986 (median)
+Respiratory Rate (breaths/min) :  2149 (replace with unknown)
+Heart Rate (rates/min :  2113 (replace with unknown)
+Gender :  2173 (replace with unknown)
+Birth asphyxia :  2139 (replace with unknown / missing)
+Autopsy shows birth defect (if applicable) :  1026 (replace with not applicable / mode)
+Folic acid details (peri-conceptional) :  2117 (replace with mode)
+H/O serious maternal illness :  2152 (replace with unknown)
+H/O radiation exposure (x-ray) :  2153 (replace with unknown)
+H/O substance abuse :  2195 (replace with unknown)
+History of anomalies in previous pregnancies :  2172 (replace with unknown)
+Birth defects :  2154 (replace with unknown)
+White Blood cell count (thousand per microliter) :  2148 (replace with mean)
+Blood test result :  2145 (replace with mode)
+Symptom 1 :  2155  (mode)
+Symptom 2 :  2222  (mode)
+Symptom 3 :  2101  (mode)
+Symptom 4 :  2113  (mode)
+Symptom 5 :  2153  (mode)
